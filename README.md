@@ -3,14 +3,18 @@
 
 # Dependencies
 node_modules
+
 saved_models/
+
 contracts/
 
 # Production
 hardhat.config.js
+
 ResCNN_triplet_training_checkpoint_265.h5
 # Env
 .env
+
 src/env.json
 
 # Editor
