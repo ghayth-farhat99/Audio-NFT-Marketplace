@@ -7,8 +7,6 @@ saved_models/
 # Production
 ResCNN_triplet_training_checkpoint_265.h5
 # Env
-.env
-src/env.json
 
 # Editor
 .vscode
