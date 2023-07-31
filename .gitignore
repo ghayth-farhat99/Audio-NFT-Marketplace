@@ -3,7 +3,6 @@
 # Dependencies
 node_modules
 saved_models/
-contracts/
 
 # Production
 ResCNN_triplet_training_checkpoint_265.h5
